@@ -25,6 +25,8 @@ y = [2,4,6]
 linreg.linreg(x, y)
 ```
 
+![example plot](https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png)
+
 You can disable plotting with `plot=False`
 
 If your data is a list of tuples, that works too
