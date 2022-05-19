@@ -25,7 +25,7 @@ y = [2,4,6]
 linreg.linreg(x, y)
 ```
 
-![example plot](https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png | width=200)
+<img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
 
 You can disable plotting with `plot=False`
 
