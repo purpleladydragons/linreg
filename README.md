@@ -14,7 +14,7 @@ so that you don't have to open google every time you want to do some basic regre
 
 ## Usage
 
-linreg supports basic lists, numpy arrays, and pandas series. It also supports multivariate regression
+linreg supports basic lists, numpy arrays, and pandas series
 
 <img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
 
@@ -29,6 +29,7 @@ linreg.linreg(x, y)
 
 You can disable plotting with `plot=False`
 
+Multivariate regression is supported
 ```python
 import linreg
 
