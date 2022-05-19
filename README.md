@@ -54,5 +54,5 @@ linreg.linreg(xy, transpose=True)
 ```
 
 If you forget to transpose in the above case, linreg will log a warning. 
-It works by assuming that if you have more dimensions than data points, that you probably forgot to transpose.  
+It works by assuming that if you have more dimensions than data points, then you probably forgot to transpose.  
 You can suppress these warnings with `warn=False`
