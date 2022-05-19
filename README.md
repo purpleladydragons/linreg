@@ -17,6 +17,7 @@ so that you don't have to open google every time you want to do some basic regre
 linreg supports basic lists, numpy arrays, and pandas series
 
 <img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
+(Plotting is only supported for simple regression. Plotting can be disabled with `plot=False`)
 
 ```python
 import linreg
@@ -26,8 +27,6 @@ y = [2,4,6]
 
 linreg.linreg(x, y)
 ```
-
-You can disable plotting with `plot=False`
 
 Multivariate regression is supported
 ```python
