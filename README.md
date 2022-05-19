@@ -6,7 +6,7 @@ Simple and flexible interface for basic linear regression.
 
 I wanted to do very basic linear regression between two arrays of data.
 It's a pain in the ass having to remember scikit-learn's interface for regression,
-remember matplotlib's interface for plotting, and also having to do things like `np.array(x).reshape(1,-1))` 
+remember matplotlib's interface for plotting, and also having to do things like `np.array(x).reshape(1,-1)` 
 so that it works with sklearn
 
 I wanted to create an interface that is as simple as possible and also relatively flexible with your input
