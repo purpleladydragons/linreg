@@ -19,6 +19,7 @@ linreg supports basic lists, numpy arrays, and pandas series
 <img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
 (Plotting is only supported for simple regression. Plotting can be disabled with `plot=False`)
 
+A basic example
 ```python
 import linreg
 
