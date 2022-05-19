@@ -16,6 +16,8 @@ so that you don't have to open google every time you want to do some basic regre
 
 linreg supports basic lists, numpy arrays, and pandas series
 
+<img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
+
 ```python
 import linreg
 
@@ -24,8 +26,6 @@ y = [2,4,6]
 
 linreg.linreg(x, y)
 ```
-
-<img src="https://raw.githubusercontent.com/purpleladydragons/linreg/main/img/plot.png" width=400>
 
 You can disable plotting with `plot=False`
 
