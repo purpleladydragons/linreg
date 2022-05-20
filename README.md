@@ -12,6 +12,12 @@ so that it works with sklearn
 I wanted to create an interface that is as simple as possible and also relatively flexible with your input
 so that you don't have to open google every time you want to do some basic regression checking
 
+## Installation
+
+```shell
+pip install linreg
+```
+
 ## Usage
 
 linreg supports basic lists, numpy arrays, and pandas series. 
